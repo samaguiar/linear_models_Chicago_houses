@@ -173,5 +173,3 @@ Hayes, A. (2022, April 20). Heteroscedasticity definition: Simple meaning and ty
 Kenton, W. (2022, December 31). Homoskedastic: What it means in regression modeling, with example. Investopedia. https://www.investopedia.com/terms/h/homoskedastic.asp 
 Staton, B. (2021). Introduction to R for natural resource scientists. https://bstaton1.github.io/au-r-workshop/ 
 Zumel, N., Mount, J., Howard, J., & Thomas, R. (2020). Practical data science with R. Manning Publications Co. 
-
-
