@@ -1,5 +1,6 @@
 # linear_models_Chicago_houses
-
+### The Data ###
+The data was obtain from 
 ### Scatter Plot: Selling Price vs. Tax Bill ###
 To create a scatter plot of Selling Price vs. the Tax Bill for Chicago Houses, I used the following code: 
 ```
