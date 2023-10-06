@@ -1,6 +1,7 @@
 # linear_models_Chicago_houses
 ### The Data ###
-The data was obtain from 
+The data was obtain from https://stat4ds.rwth-aachen.de/data/. This project was created for MDSD-531: Statistics for Data Science at the University of the Cumberlands.
+
 ### Scatter Plot: Selling Price vs. Tax Bill ###
 To create a scatter plot of Selling Price vs. the Tax Bill for Chicago Houses, I used the following code: 
 ```
